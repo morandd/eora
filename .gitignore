@@ -1,0 +1,12 @@
+au.edu.usyd.isa.MRIO.jar
+*.class
+Thumbs.db
+*.db
+
+*.class
+
+hs_err_pid*
+
+*.asv
+*.m~
+
